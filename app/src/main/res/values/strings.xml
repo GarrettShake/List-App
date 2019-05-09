@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string name="title_dashboard">NEW</string>
+
+    <string name="title">Title</string>
+    <string name="description">description</string>
+</resources>
