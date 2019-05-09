@@ -17,7 +17,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.vh> {
     static class vh extends RecyclerView.ViewHolder{
         TextView mTitle;
         TextView mAuthor;
-        Button mDel;
 
 
         vh(@NonNull View itemView) {
